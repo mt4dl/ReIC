@@ -1,0 +1,3 @@
+[submodule "REIC/Visual_Caption_Alignment/image_occlusion/lama"]
+	path = REIC/Visual_Caption_Alignment/image_occlusion/lama
+	url = https://github.com/advimman/lama
