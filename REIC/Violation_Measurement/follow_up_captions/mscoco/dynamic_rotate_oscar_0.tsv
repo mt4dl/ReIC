@@ -1,0 +1,301 @@
+0,1,2
+0,a man riding a scooter on a dirt road.,0.8491171002388
+1,a man sitting at a table with a spoon of food.,0.9120053648948669
+2,a woman walking with a bicycle in front of a train.,0.9072719216346741
+3,a kitchen with a sink and two windows.,0.8768754005432129
+4,a wooden cutting board with a group of spoons on it.,0.790431559085846
+5,a group of wooden utensils sitting on a table.,0.8717792630195618
+6,a white bathroom with a toilet and a sink.,0.9909703135490417
+7,a bathroom with two sinks and a shower.,0.990083634853363
+8,a group of people riding bikes down a city street.,0.9785494208335876
+9,a bathroom with a sink and a toilet and a mirror.,0.98494553565979
+10,a bathroom with a sink and a toilet and a shelf.,0.8433696031570435
+11,a man wearing glasses and a suit and tie.,0.9879365563392639
+12,a couple of men riding on a motorcycle.,0.9719851613044739
+13,a group of motorcycles parked on the side of a building.,0.9441213607788086
+14,a person laying on a bed in front of a television.,0.8737690448760986
+15,a man sitting at a table with two oranges.,0.7865110039710999
+16,a bunch of bananas sitting on top of a table.,0.952796459197998
+17,a wooden bicycle sitting on top of a table.,0.8940219879150391
+18,a large airplane parked on the runway at an airport.,0.8702226281166077
+19,a couple of planes parked at an airport with a truck.,0.8259307146072388
+20,a small plane sitting on top of a field.,0.9093190431594849
+21,a motorcycle parked on the side of a dirt road.,0.8946943283081055
+22,a couple of people sitting on a bench with a white dog.,0.9649335741996765
+23,a traffic light with a blue sky in the background.,0.9336951971054077
+24,a wooden table with flowers and a bunch of windows.,0.8411295413970947
+25,a group of people standing on a sidewalk.,0.8649896383285522
+26,a herd of sheep standing in front of a building.,0.9420894384384155
+27,a group of birds flying in the sky.,0.8356136083602905
+28,a group of flags on the side of a boat in the water.,0.8613048195838928
+29,a group of giraffes standing in a field.,0.9370914101600647
+30,a yellow fire hydrant on the side of a building.,0.8974006772041321
+31,a couple of black birds sitting in a wooden box.,0.8587573170661926
+32,a black and white photo of a large building with a street sign.,0.9378935694694519
+33,a couple of ducks swimming in a body of water.,0.905360221862793
+34,a couple of green street signs on a pole.,0.9308217763900757
+35,a sheep standing in a field of grass.,0.9835194945335388
+36,a couple of women sitting next to each other with snowboards.,0.9078724384307861
+37,a group of street signs in front of a building.,0.9255439043045044
+38,a brown cow standing on the side of a street.,0.798363447189331
+39,a large elephant standing next to a blue bucket.,0.8307349681854248
+40,a gray dog eating a banana from a person.,0.8806219696998596
+41,a cat sitting at a table next to a book.,0.9717528223991394
+42,a couple of cows grazing in a field in front of a building.,0.8657160997390747
+43,a black and white cow standing in the grass in a field.,0.9468429684638977
+44,a young woman wearing a shirt and tie.,0.8180791735649109
+45,a group of elephants standing in a dirt field.,0.8581216931343079
+46,a large elephant standing next to a tree.,0.9662646651268005
+47,a small bird sitting on top of a surfboard near the water.,0.7198938131332397
+48,a group of boats parked in the water.,0.8773536682128906
+49,a large elephant walking in a field with trees.,0.8568156361579895
+50,a woman and a little girl sitting on a suitcase.,0.8504580855369568
+51,a woman sitting on a chair with a cell phone.,0.9236499667167664
+52,a young girl sitting on top of a suitcase in the woods.,0.8698812127113342
+53,a baby sitting on a bench next to a table.,0.8780502676963806
+54,a brown dog laying next to a swimming pool.,0.8746947050094604
+55,a couple of people walking down a street with umbrellas.,0.8539271950721741
+56,a black dog sitting on the floor next to a plate of food.,0.9256851673126221
+57,a man walking on the beach with a surfboard.,0.9085763692855835
+58,a person and two dogs on a dirt road.,0.9297870993614197
+59,a close up of a zebra standing in the grass.,0.9855359196662903
+60,a zebra standing in the snow in a building.,0.8967676758766174
+61,a couple of zebras and other animals grazing in a field.,0.9791181683540344
+62,a zebra jumping in the air to catch a ball.,0.8233804702758789
+63,a group of toy horses on top of a table.,0.7707705497741699
+64,a brown and white horse standing in front of a car.,0.9157998561859131
+65,a person riding a horse in front of a building.,0.9552893042564392
+66,a woman standing next to a white horse.,0.9926600456237793
+67,a couple of bananas and oranges in a box.,0.8921229243278503
+68,a group of children playing baseball on a field.,0.9518016576766968
+69,a young boy wearing a bunch of bananas on his head.,0.9766835570335388
+70,a young man wearing a bunch of colorful toys.,0.7435992956161499
+71,a baseball player throwing a ball on a field.,0.9921517968177795
+72,a group of plates of food on a table.,0.9292429685592651
+73,a man and a little girl standing on skis in the snow.,0.9591333270072937
+74,a young boy sitting in front of a plate of cake.,0.9048365950584412
+75,a woman riding a pink skateboard down a street.,0.9737966656684875
+76,a young boy riding a skateboard at a skate park.,0.9507098197937012
+77,a couple of men riding skateboards on a sidewalk.,0.9694845080375671
+78,a man riding a snowboard down a snow covered slope.,0.972952127456665
+79,a little girl sitting at a table with cups of food.,0.8459473252296448
+80,a man in a blue jacket standing next to a snowboard.,0.8273793458938599
+81,a couple of sandwiches and a couple of sandwiches on display.,0.7580007910728455
+82,a young boy sitting on the floor with a toy.,0.8621753454208374
+83,a bunch of trays of pastries in a display case.,0.8281053900718689
+84,a white plate with a sandwich and a salad and a pickle.,0.9005991816520691
+85,a cup of coffee and a sandwich on a table.,0.8423017263412476
+86,a group of donuts sitting on top of a table.,0.8902701735496521
+87,a young boy wearing a green shirt and a tie.,0.8139716386795044
+88,a woman standing on the beach holding a surfboard.,0.8691185116767883
+89,a young man kicking a soccer ball on a field.,0.9578403234481812
+90,a person riding a wave on a surfboard in the ocean.,0.9444376826286316
+91,a group of men playing soccer on a field.,0.9590621590614319
+92,a woman sitting at a table with a cake.,0.9679685831069946
+93,a baby sitting in front of a piece of cake.,0.8921619057655334
+94,a group of children playing a game of soccer.,0.8936933875083923
+95,a man sitting at a table with a pizza and plates.,0.9750160574913025
+96,a baby laying on a bed with a table.,0.945635199546814
+97,a man and a woman laying on a bed.,0.9287477731704712
+98,a close up of a pizza on a white plate.,0.9675053954124451
+99,a couple of tennis rackets sitting on the ground.,0.8643236756324768
+100,a baby eating a slice of pizza on a couch.,0.8961204886436462
+101,a woman posing for a picture in an office.,0.7655256986618042
+102,a slice of pizza with a pickle on a cutting board.,0.9344257116317749
+103,a brown couch with pillows and a remote control on it.,0.9489837288856506
+104,a woman holding a knife and a piece of food.,0.779169499874115
+105,a living room with a table and chairs and a window.,0.9476915001869202
+106,a group of men sitting at a desk with a computer.,0.9375031590461731
+107,a man walking on the beach flying a kite.,0.9179832339286804
+108,a person flying a blue kite in a field.,0.8597052097320557
+109,a woman sitting in a chair with a kite.,0.8765833377838135
+110,a couple of kites flying in the blue sky.,0.9596431255340576
+111,a green clock tower on the side of a street.,0.9285147190093994
+112,a baseball player swinging a bat at a ball.,0.987490177154541
+113,a baseball player holding a bat on a field.,0.999725341796875
+114,a man sitting on a bench holding a baseball bat.,0.8539502620697021
+115,a young boy playing with a frisbee in the grass.,0.8208118677139282
+116,a baseball player holding a bat on a field.,0.9989003539085388
+117,a young man holding a purple umbrella.,0.7816928029060364
+118,a person holding a pizza in their hand.,0.934799313545227
+119,a group of people playing tennis on a tennis court.,0.9551913142204285
+120,a young man hitting a tennis ball with a tennis racket.,0.8719231486320496
+121,a group of people standing in front of a building with a clock.,0.9823925495147705
+122,a cup of coffee sitting on a table.,0.9168011546134949
+123,a man sitting on a bench holding a baseball bat.,0.9516871571540833
+124,a crowd of people standing in front of a building with a clock tower.,0.9345938563346863
+125,a man sitting next to a stuffed animal.,0.8450491428375244
+126,a large building with a clock tower on top of it.,0.9914264678955078
+127,a group of stuffed animals sitting next to each other.,0.8458629846572876
+128,a group of buildings on the side of a street.,0.893021285533905
+129,a close up of a white plant with a teddy bear.,0.7979446649551392
+130,a bunch of purple flowers in a vase.,0.9893501996994019
+131,a man in a plaid shirt sitting at a table.,0.9032167792320251
+132,a pair of red scissors sitting on top of a green board.,0.8429729342460632
+133,a group of people sitting at a table.,0.9898443222045898
+134,a group of people sitting around a table with a group of wine glasses.,0.8968201875686646
+135,a group of people sitting at a table with wine.,0.9095097780227661
+136,a man sitting in a chair looking at his cell phone.,0.9191713333129883
+137,a group of people standing in an airport with luggage.,0.89881432056427
+138,a bunch of vegetables and a pot on a table.,0.8606506586074829
+139,a woman standing in a kitchen with a dog.,0.9921151995658875
+140,a woman standing on a counter in a kitchen.,0.9215238690376282
+141,a man sitting on a chair in a kitchen.,0.8703192472457886
+142,a woman standing next to a dog in a kitchen.,0.9342113137245178
+143,a bird sitting on top of a wooden table in a kitchen.,0.891730546951294
+144,a woman standing on a skateboard on a sidewalk.,0.8973639011383057
+145,a woman standing next to a bike in front of a building.,0.9131751656532288
+146,a small bathroom with a toilet and a sink.,0.9443266987800598
+147,a bathroom with a sink and a mirror.,0.9953141212463379
+148,a bathroom with a toilet and a sink.,0.8419438600540161
+149,a couple of people riding a scooter on a bridge.,0.9372155666351318
+150,a white toilet sitting on top of a table.,0.9332273602485657
+151,a group of people standing in front of a building with a clock.,0.9746038913726807
+152,a couple of men sitting on motorcycles on a street.,0.9060226678848267
+153,a group of people standing in front of an airplane.,0.9549728035926819
+154,a red airplane flying through a blue sky.,0.828278660774231
+155,a large airplane flying in the blue sky.,0.9271029829978943
+156,a large airplane flying in the blue sky.,0.9508681893348694
+157,a red airplane flying in a blue sky.,0.9558998942375183
+158,a group of sheep grazing on a field near the ocean.,0.8660774230957031
+159,a giraffe standing in a field with trees.,0.9186069965362549
+160,a close up of a giraffe standing in front of a background.,0.9224804639816284
+161,a red traffic light in front of tall buildings at night.,0.8412571549415588
+162,a city street at night with traffic lights.,0.9857427477836609
+163,a couple of giraffes standing next to a fence.,0.9961743950843811
+164,a giraffe eating hay from a feeder in a forest.,0.8601554036140442
+165,a couple of giraffes standing in a field with a bus.,0.9436427354812622
+166,a yellow banana peel sitting on top of a group of benches.,0.8772072196006775
+167,a group of sheep standing in a field.,0.9806060791015625
+168,a man sitting on a bench near the water.,0.9152339100837708
+169,a giraffe standing next to a building.,0.9201452136039734
+170,a couple of ducks swimming in a pond.,0.9258356690406799
+171,a couple of giraffes standing next to a wooden fence.,0.9328550696372986
+172,a couple of giraffes and a zebra in a zoo.,0.9527900218963623
+173,a street sign on a pole in front of a building.,0.934158444404602
+174,a close up of a giraffe standing in a field.,0.9419739246368408
+175,a couple of giraffes standing next to each other.,0.9593531489372253
+176,a herd of sheep grazing in a field.,0.9818069338798523
+177,a herd of sheep standing in a field.,0.9074414968490601
+178,a herd of sheep grazing in a field under a tree.,0.9835326075553894
+179,a fire hydrant sitting on the side of a street.,0.8934051394462585
+180,a group of people standing on a bridge over a highway.,0.7882090210914612
+181,a red and yellow train on the tracks.,0.915355384349823
+182,a stop sign and a street sign in the snow.,0.9178991317749023
+183,a red and yellow train at a train station.,0.9839709401130676
+184,a red stop sign with graffiti on it.,0.9809308052062988
+185,a cat standing on top of two red suitcases.,0.9166176319122314
+186,a cat standing on its hind legs on a sidewalk.,0.8686336278915405
+187,a red fire truck with a group of people sitting on it.,0.8527605533599854
+188,a group of people standing next to each other.,0.9330434799194336
+189,a brown and white dog sitting on a table.,0.9104463458061218
+190,a couple of boats sitting on a dock.,0.9010571241378784
+191,a group of boats sitting on the water.,0.9280363321304321
+192,a couple of young boys in suits and ties standing next to each other.,0.8284479379653931
+193,a couple of women walking down a street with umbrellas.,0.9805338978767395
+194,a couple of cats laying in a bathroom sink.,0.9709458351135254
+195,a cat sleeping on the floor on a table.,0.7649214267730713
+196,a man sitting on a chair with a cat and a laptop.,0.9441000819206238
+197,a woman standing in front of two elephants.,0.9423575401306152
+198,a dog standing on the beach next to the water.,0.9317495822906494
+199,a group of dogs playing in the snow.,0.9125703573226929
+200,two black suitcases sitting next to each other on a table.,0.7992302775382996
+201,a camera sitting on top of a luggage bag at an airport.,0.8175880908966064
+202,a brown dog holding a frisbee in its mouth.,0.9341990947723389
+203,a group of zebras grazing in a field with birds.,0.9344978928565979
+204,a little girl holding a red frisbee in the grass.,0.96101313829422
+205,a couple of zebras and other animals standing in a field.,0.9350666403770447
+206,a herd of zebras standing in a field.,0.9337455630302429
+207,a close up of a zebra standing in a dirt field.,0.9264956712722778
+208,a brown horse standing in the middle of a forest.,0.9148082137107849
+209,a couple of children standing in front of a statue of a building.,0.9411773085594177
+210,a person holding a piece of food in their hand.,0.8817393183708191
+211,a man riding a wave on a surfboard in the water.,0.8786870241165161
+212,a group of people cross country skiing in the snow.,0.8643768429756165
+213,a pile of oranges sitting on top of each other.,0.9581220746040344
+214,a pile of oranges sitting on top of a person.,0.9116283655166626
+215,a woman skiing down a snow covered slope.,0.952607274055481
+216,a man and a man playing baseball in a field.,0.8619367480278015
+217,a couple of people riding skis down a snow covered slope.,0.9358306527137756
+218,a man riding a skateboard down a sidewalk.,0.9408137202262878
+219,a person riding skis down a snow covered slope.,0.8934757709503174
+220,a woman riding skis down a snow covered slope.,0.9458950757980347
+221,a man riding a skateboard on a street next to a boy.,0.8205661773681641
+222,a plate of food with fruits and vegetables on a table.,0.8259111046791077
+223,a wooden table with a bowl of food and wine.,0.8922655582427979
+224,a group of people standing on skis in the snow.,0.9504792094230652
+225,a man sitting on a sidewalk eating a banana.,0.9504125714302063
+226,a man doing a trick on a skateboard on a ramp.,0.9887772798538208
+227,a couple of pieces of food and a cup of coffee.,0.8060032725334167
+228,a piece of food sitting on top of a table next to a cup of coffee.,0.918255627155304
+229,a piece of cake with a spoon on a plate.,0.9344871640205383
+230,a piece of chocolate cake on a white plate.,0.9585748314857483
+231,a man sleeping on a bed with a cat.,0.8910574913024902
+232,a bedroom with pictures on the wall and a bed.,0.9047141671180725
+233,a group of people sitting at a table with a cake.,0.9334466457366943
+234,a woman holding a cake in a table.,0.8729539513587952
+235,two women sitting next to each other reading a book.,0.8885431289672852
+236,a couple of women sitting in front of a cake.,0.8890666365623474
+237,a man riding a wave on a surfboard in the ocean.,0.9975900650024414
+238,a group of people standing on the beach with surfboards.,0.9620006084442139
+239,a close up of a pizza on a plate.,0.8826956152915955
+240,a man standing on a tennis court holding a racket.,0.9811787009239197
+241,a close up of a pizza on a table with a glass of soda.,0.9063116908073425
+242,a person holding a slice of pizza on a plate.,0.9353731870651245
+243,a group of people sitting at a table eating pizza.,0.9575388431549072
+244,a man holding a tennis racket on a blue court.,0.9516326785087585
+245,a living room with a couch and a coffee table.,0.9662513136863708
+246,a group of men playing a video game.,0.9130085110664368
+247,a young girl sitting in a chair holding a video game controller.,0.9031158685684204
+248,a desk with two computer monitors and a keyboard.,0.9491094350814819
+249,a living room with a couch and a table.,0.9198916554450989
+250,a dog flying a kite in a park.,0.9571174383163452
+251,a baseball player holding a bat on a field.,0.9093528985977173
+252,a baseball player swinging a bat on a field.,0.9887068271636963
+253,a large clock on the side of a building.,0.9787540435791016
+254,a black and white photo of a man sitting on a couch.,0.8720598220825195
+255,a laptop computer sitting on a table next to a glass of beer.,0.9649788737297058
+256,a person holding a cell phone in their hand.,0.9557211399078369
+257,a woman sitting in front of a computer holding a cell phone.,0.8593387007713318
+258,a woman taking a pan of food out of an oven.,0.8271595239639282
+259,a young child sitting on a chair playing with a remote control.,0.8285651803016663
+260,a plate of pizza and bottles of wine on a table.,0.8623486161231995
+261,a young boy sitting on a bed with a spoon.,0.750148355960846
+262,a woman sitting at a table with a plate of food.,0.968774676322937
+263,a plate of food sitting on top of a kitchen counter.,0.8082611560821533
+264,a laptop computer sitting on top of a wooden table.,0.8820823431015015
+265,a kitchen with a stove and a window.,0.9349913597106934
+266,a close up of a drain on the floor of a wall.,0.7318872213363647
+267,a white toilet sitting in a bathroom with a wall.,0.9087408185005188
+268,a large bathroom with two sinks and a toilet.,0.9580066800117493
+269,a bathroom with a tub and a sink and a window.,0.8898904919624329
+270,a bathroom with a toilet and a window.,0.9166118502616882
+271,a black cat sitting in front of a bathroom sink.,0.8677840232849121
+272,a group of dogs sitting in the back seat of a car.,0.9143781661987305
+273,a group of cars and trucks on a city street.,0.8706154823303223
+274,a white toilet in a bathroom with a shower.,0.9332975745201111
+275,a white bathroom with a sink and a toilet.,0.9489759802818298
+276,a cat standing on top of a white toilet.,0.9341161251068115
+277,a black and white cat laying on a bed.,0.8555582165718079
+278,a group of oranges sitting on a table.,0.9688030481338501
+279,a large airplane flying through a blue sky.,0.9439494609832764
+280,a blue and white airplane flying over a group of trees.,0.9105847477912903
+281,a couple of planes flying in the sky over a tree.,0.8345260620117188
+282,a group of birds sitting on a tree branch.,0.9496200680732727
+283,a couple of tall buildings and an airplane in the sky.,0.8851121664047241
+284,a plane flying in front of two tall buildings.,0.8722228407859802
+285,a giraffe standing next to a body of water.,0.976176917552948
+286,a traffic light on the side of a street.,0.9239099025726318
+287,a book sitting on top of a wooden bench.,0.9791948199272156
+288,a green traffic light on the side of a street.,0.9231799244880676
+289,a herd of sheep grazing on the side of a road.,0.9881525039672852
+290,a woman standing next to a sheep.,0.846996009349823
+291,a couple of birds standing in the water.,0.8908439874649048
+292,a woman sitting on the back of a boat.,0.9325094223022461
+293,a group of people riding on the back of an elephant.,0.9178341627120972
+294,a woman sitting on a bed in a room.,0.9474243521690369
+295,a blue train car sitting on the tracks.,0.9106078743934631
+296,a couple of birds sitting on top of telephone wires.,0.8537896871566772
+297,a large bird sitting in front of a cage.,0.7571548223495483
+298,a blue and white plate with a cat on it.,0.8372517228126526
+299,a woman standing at a table with a bouquet of flowers.,0.962956428527832
